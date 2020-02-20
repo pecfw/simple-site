@@ -8,11 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git"
+    "url": "git+https://github.com/pecfw/simple-site.git"
   },
-  "author": "Philippa Wisniewski",
-  "license": "ISC",
-  "homepage": "",
+  "author": {
+    "name": "Philippa Wisniewski",
+    "email": "pecfwisniewski@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/pecfw/simple-site.git#readme",
   "dependencies": {
     "browser-sync": "^2.26.7",
     "install": "^0.12.1",
